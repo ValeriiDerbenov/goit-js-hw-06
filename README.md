@@ -1,1 +1,1 @@
-# homework-06
+# homework-js-06
